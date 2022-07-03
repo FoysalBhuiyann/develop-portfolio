@@ -22,3 +22,12 @@ section {
 .half-width img {
     width: 80%;
 }
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 30px;
+    color: azure;
+    border-radius: 45px;
+    background-image: linear-gradient(rgb(114, 18, 101), rgb(55, 4, 240));
+    font-weight: 700;
+}
