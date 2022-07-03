@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
@@ -28,9 +29,9 @@ section {
     text-decoration: none;
     padding: 10px 30px;
     color: azure;
-    border-radius: 45px;
+    border-radius: 55px;
     background-image: linear-gradient(rgb(114, 18, 101), rgb(55, 4, 240));
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .top-banner {
