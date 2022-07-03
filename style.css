@@ -18,7 +18,7 @@ section {
 
 .half-width {
     width: 50%;
-    padding-left: 2%;
+    padding-left: 3%;
 }
 
 .half-width img {
@@ -30,11 +30,18 @@ section {
     padding: 10px 30px;
     color: azure;
     border-radius: 55px;
-    background-image: linear-gradient(rgb(114, 18, 101), rgb(55, 4, 240));
+    background-image: linear-gradient(rgb(22, 207, 152), rgb(55, 4, 240));
     font-weight: 600;
 }
 
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(images/side-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    padding-right: 3%;
 }
