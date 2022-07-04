@@ -70,7 +70,7 @@ h2 {
 }
 
 #full-stack {
-    border-left: 6px solid rgb(84, 20, 187);
+    border-left: 6px solid rgb(187, 20, 159);
 }
 
 #social-media {
@@ -85,4 +85,6 @@ h2 {
 
 .footer-bottom {
     text-align: center;
+    color: rgb(8, 6, 14);
+    font-weight: 700;
 }
